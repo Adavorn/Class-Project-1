@@ -8,7 +8,7 @@ Class Project For A Glass Instalation Company
 # Website Technology
 - Html
 - css(must have)
-- boostrap?
+- boostrap
 
 # Github Code Repository
 - https://github.com/Adavorn/Class-Project-1.git
