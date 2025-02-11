@@ -14,7 +14,7 @@ Class Project For A Glass Instalation Company
 - https://github.com/Adavorn/Class-Project-1.git
 
 # Github Website url
-- https://adavorn.github.io/hobbies-demo-website/project-1/
+- https://adavorn.github.io/Class-Project-1/
 
 # Future Improvements
 - Add responsive nav menu
