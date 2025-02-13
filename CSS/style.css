@@ -1,16 +1,22 @@
 
 body {
-    background-color: #00843D;
+    background-color: gray;
   }
 
-body { text-align: center;}
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
 
 div.gallery {
-  border: 1px solid #ccc;
+  border: 1px solid #000000;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 1px solid #000000;
 }
 
 div.gallery img {
